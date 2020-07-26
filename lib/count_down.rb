@@ -1,3 +1,3 @@
-count = 10
+count = 11
 while count > -1 do
-  puts 
+  puts count -= 1
